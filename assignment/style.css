@@ -1,0 +1,28 @@
+body
+{   margin: 0;
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header{
+    margin: 0;
+    padding: 5%;
+    text-align: center;
+}
+img {
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    border: 8px ridge black;  
+    padding: 5px;  
+
+}
+h2{
+    background-color: bisque;
+    text-align: center;
+    
+}
+h3
+{
+    background-color: bisque;
+    text-align: center;
+}
